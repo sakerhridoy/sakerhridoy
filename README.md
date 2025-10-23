@@ -1,5 +1,3 @@
-
-(https://media.licdn.com/dms/image/v2/D5616AQEgUyMX312D5g/profile-displaybackgroundimage-shrink_350_1400/B56ZoSlEWQJ4AY-/0/1761248326187?e=1762992000&v=beta&t=O37CLfoE13LIV1loac4xLaG32g7Iuj0yu5xiJSHvsxo)
 ### Hi there 👋, 
 ## My name is Saker Ahmed Hridoy
 #### I am Fontend Web Developer
