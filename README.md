@@ -2,7 +2,7 @@
 ### Hi there 👋, 
 ## My name is Saker Ahmed Hridoy
 #### I am Fontend Web Developer
-Aspiring Frontend Web Developer | AI & Web Solutions Enthusiast | Lifelong Learner
+| AI & Web Solutions Enthusiast | Lifelong Learner
 
 Skills: NODE JS / REACT / JS / HTML / CSS
 
